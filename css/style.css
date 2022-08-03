@@ -1,0 +1,134 @@
+.logo{
+    padding:25px 0px;
+}
+.s-link{
+    margin-top: 60px;
+}
+.s-link .fa{
+    font-size: 20px;
+    margin-right: 20px;
+}
+.form-in{
+    margin-top: 50px;
+}
+.form-in input{
+    border-radius: 40px;
+    height: 40px;
+}
+.form-in button{
+    background: brown;
+    color: #fff;
+    padding: 10px 15px;
+    border-radius: 50px ;
+    margin-left: 5px;
+}
+.menu-border{
+    border-bottom: 1px solid #ccc;
+}
+#menu a{
+    font-size: 14px;
+    margin-right: 25px;
+}
+.site-title h2{
+    display: table;
+    font-size: 18px;
+    border-bottom: 1px solid black;
+
+}
+.blog-list{
+    margin: 50px 0px;
+}
+.blog-list h4{
+    font-size: 14px;
+    font-weight: bold;
+}
+.blog-list p{
+    font-size: 12px;
+    font-family: 'B612 Mono', monospace;
+    color: #cdcbcb;
+}
+.blog-list h6{
+    font-size: 13px;
+    color: #cdcbcb;
+}
+.blog-list img{
+    height: 120px;
+}
+.post-list{
+    margin-top: 40px;
+}
+.post-list h3{
+    color: lightgrey;
+    margin-right: 15px;
+}
+.post-list p{
+    font-size: 12px;
+    word-spacing: 2px;
+}
+footer{
+    background: #f8f9fa !important;
+    padding: 120px 0px;
+
+}
+.newsletter h3{
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.newsletter p{
+    font-size: 12px;
+}
+.newsletter input{
+    border-radius: 25px;
+    padding: 25px 15px;
+}
+.newsletter button{
+    background: #000;
+    margin-left: 20px;
+    color: #fff;
+    padding: 12px 20px;
+    border-radius: 25px;
+}
+.newsletter form{
+    margin-top: 25px;
+}
+.single-post h1{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: arial;
+    padding: 40px 0px;
+}
+.single-post .col-lg-8 p{
+    font-size: 12px;
+    margin-top: 30px;
+}
+.comment-list{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.comment-list h4{
+    font-size: 16px;
+    font-weight: bold;
+}
+.comment-list h6{
+    font-size: 12px;
+    color: grey;
+}
+.comment-list p{
+    margin: 10px !important;
+}
+.comment-list button{
+    padding: 5px 10px;
+    font-size: 12px;
+}
+.comment-form input{
+    height: 50px;
+    border-radius: 25px;
+}
+.comment-form textarea{
+     border-radius: 25px;
+}
+.comment-form button{
+    padding: 15px 25px;
+    border-radius: 25px;
+}
